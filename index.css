@@ -17,6 +17,7 @@ p {
   color: rgb(215, 215, 215);
   font-family: 'Noto Serif', serif;
   font-size: 15px;
+  padding-bottom: 2px;
 }
 
 .card {
